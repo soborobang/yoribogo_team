@@ -1,3 +1,6 @@
-# Git_Test
+# 1차 종합프로젝트
 
-first_git
+-Node.js
+-Javascript
+-Open api
+-Html/css
